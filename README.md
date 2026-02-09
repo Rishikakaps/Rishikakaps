@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rishikakaps
-- 👀 I’m interested in learning python java and R
-- 🌱 I’m currently learning basics of python and some sql
+- 👀 I’m interested in learning python R and ML
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: im a highschool student
+- ⚡ Fun fact: Im pursuing Biotechnology, and want to work in neuroinformatics and computational neuroscience
 
 <!---
 Rishikakaps/Rishikakaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
