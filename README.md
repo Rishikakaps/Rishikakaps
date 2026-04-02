@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Rishikakaps
-- 👀 I’m interested in learning python R and ML
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Im pursuing Biotechnology, and want to work in neuroinformatics and computational neuroscience
+# 💫 About Me:
+🔭 I’m currently working on  <br>- Neuroimaging research using NumPy, Scikit-learn, and Nilearn  <br>- Building a strong foundation in computational neuroscience  <br><br>👯 I’m looking to collaborate on  <br>- Open-source projects in bioinformatics and neuroinformatics  <br>- Machine learning applications in biology  <br>- Research-driven student collaborations (papers, reviews, datasets)  <br><br>🤝 I’m looking for help with  <br>- Applying Python for efficient data analysis and problem solving  <br>- Writing stronger research papers and literature reviews  <br><br>🌱 I’m currently learning  <br>- Neuroimaging workflows, EEG and fMRI analysis  <br>- Machine learning for biological data  <br>- Scientific Python (NumPy, Scikit-learn, Nilearn)  <br><br>💬 Ask me about  <br>- Productivity systems for neurodivergent students  <br>- Core biological concepts (especially biochemistry & neuroscience)  <br><br>⚡ Fun fact  <br>- I blend logic and creativity — from coding neuro data to designing Notion systems, painting, and knitting
 
-<!---
-Rishikakaps/Rishikakaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikakapil1122@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rishikakaps&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rishikakaps&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikakaps&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rishikakaps&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rishikakaps&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
